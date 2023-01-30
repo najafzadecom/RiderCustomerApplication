@@ -1,0 +1,1 @@
+class Iphone8TwoModel {}
